@@ -1,0 +1,1 @@
+Inscription for Git-project
